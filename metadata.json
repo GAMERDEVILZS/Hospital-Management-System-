@@ -1,0 +1,6 @@
+{
+  "name": "Meridian Clinical",
+  "description": "Full-stack MERN Hospital Management System designed as a modern dark clinical operations console with EHR, appointments, wards, pharmacy, lab reports, and billing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
